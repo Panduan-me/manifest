@@ -1,1 +1,36 @@
-# manifest
+name	"PanduanMe"
+short_name	"PanduanMe"
+start_url	"https://panduanme.com/"
+display	"standalone"
+background_color	"#fff"
+theme_color	"#C51162"
+description	"Blog yang membahas tentang komputer, blogger, youtuber, android, bisnis, tips, otomotif, islam dan lowongan pekerjaan"
+icons	
+0	
+src	"https://1.bp.blogspot.com/-keQe5cMXjfk/XY3utVQOYvI/AAAAAAAAAE8/njzVc71MnQs_xMtVR0ALCxJX_QowaLTiQCLcBGAsYHQ/s48/panduan-me.png"
+sizes	"48x48"
+type	"image/png"
+1	
+src	"https://1.bp.blogspot.com/-keQe5cMXjfk/XY3utVQOYvI/AAAAAAAAAE8/njzVc71MnQs_xMtVR0ALCxJX_QowaLTiQCLcBGAsYHQ/s72/panduan-me.png"
+sizes	"72x72"
+type	"image/png"
+2	
+src	"https://1.bp.blogspot.com/-keQe5cMXjfk/XY3utVQOYvI/AAAAAAAAAE8/njzVc71MnQs_xMtVR0ALCxJX_QowaLTiQCLcBGAsYHQ/s96/panduan-me.png"
+sizes	"96x96"
+type	"image/png"
+3	
+src	"https://1.bp.blogspot.com/-keQe5cMXjfk/XY3utVQOYvI/AAAAAAAAAE8/njzVc71MnQs_xMtVR0ALCxJX_QowaLTiQCLcBGAsYHQ/s144/panduan-me.png"
+sizes	"144x144"
+type	"image/png"
+4	
+src	"https://1.bp.blogspot.com/-keQe5cMXjfk/XY3utVQOYvI/AAAAAAAAAE8/njzVc71MnQs_xMtVR0ALCxJX_QowaLTiQCLcBGAsYHQ/s168/panduan-me.png"
+sizes	"168x168"
+type	"image/png"
+5	
+src	"https://1.bp.blogspot.com/-keQe5cMXjfk/XY3utVQOYvI/AAAAAAAAAE8/njzVc71MnQs_xMtVR0ALCxJX_QowaLTiQCLcBGAsYHQ/s192/panduan-me.png"
+sizes	"192x192"
+type	"image/png"
+6	
+src	"https://1.bp.blogspot.com/-keQe5cMXjfk/XY3utVQOYvI/AAAAAAAAAE8/njzVc71MnQs_xMtVR0ALCxJX_QowaLTiQCLcBGAsYHQ/s512/panduan-me.png"
+sizes	"512x512"
+type	"image/png"
